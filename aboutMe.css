@@ -1,0 +1,14 @@
+body{
+    background-color: gray;
+}
+h1,h2{
+    color: rgb(0, 162, 255) ;
+}
+strong{
+    color: yellow;
+}
+ a{color: blue;
+}
+a:hover{
+    color: red;
+}
