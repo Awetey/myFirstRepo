@@ -1,10 +1,24 @@
-h2{
-    font: bold;
-    color: chocolate;
+body{
+    background-color: white;
+    color: #404040;
+    font-size: 11pt;
+    font-family: Georgia, Garamond,serif ;
+}
+h2,h1{
+    font-family:Lucida,"Sans Unicode", Helvetica, Arial,"sans-serif font";
+    color: #A4A400;
     text-align: left;
+    background-color: #F0F0F0;
+    font-size: 18pt;
+    text-decoration: underline;
 }
 h1{
-    font: bold;
-    color: coral;
     text-align: center;
+    font-size: 22pt;
+}
+a{
+    color: #A4A400;
+}
+.edit{
+    text-decoration: line-through;
 }
